@@ -2,6 +2,6 @@
 
 A simple script made in AutoKey to delete Discord Messages.
 
-Just run the .exe file.
+Just run the .exe file, open Discord and press T.
 
 Warning: Some Anti-Virus programs can say that the .exe file is a virus. I assure you that this is a false positive. If you wish to see the source code its also in this repository.
